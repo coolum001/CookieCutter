@@ -1,0 +1,2 @@
+Author: {{cookiecutter.full_name}}
+Contact: {{cookiecutter.email}}, {{cookiecutter.phone}}
